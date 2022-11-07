@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 📫  Feel free to contact me if you want 😄 !
 
-<a href="mailto:tigerber@student.42.fr">
+<a href="mailto:timger9375@gmail.fr">
 <img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 <!-- <picture>
