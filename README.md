@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 
 [![tigerber's 42 stats](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9)](https://github.com/JaeSeoKim/badge42)
 
+<a href="https://github.com/JaeSeoKim/badge42">
+  <img align="center" src="https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=radical&show" />
+</a>
+
 ## Last project at 42:
 
 | Projets |  |
