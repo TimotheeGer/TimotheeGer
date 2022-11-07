@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="center" src="https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9" />
 </a>
-<a
+
    <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=dark"
@@ -28,9 +28,8 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true" />
+<img align="center" img src="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true" />
 </picture>
-</a>
 
 ## Last project at 42:
 
