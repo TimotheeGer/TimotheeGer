@@ -17,8 +17,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9" />
 </a>
 
-##
-
 ## Last project at 42:
 
 | Projets |  |
@@ -33,8 +31,6 @@ Here are some ideas to get you started:
 | Exams |  |
 |:-------------------|:-----------------|
 | Exam Rank 05|[![tigerber's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/project/2568617)](https://github.com/JaeSeoKim/badge42)|
-
-##
 
 ## My Github stats
 
