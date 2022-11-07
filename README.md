@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 
 ## My Github stats
 
+<p>
+	<a href="https://github.com/TimotheeGer/TimotheeGer">
+	  <img src="https://komarev.com/ghpvc/?username=TimotheeGer&style=flat-square" alt="page views" />
+	</a>
+	<a href="https://github.com/TimotheeGer/TimotheeGer?tab=followers">
+	  <img src="https://img.shields.io/github/followers/TimotheeGer?color=green&logo=github&style=flat-square">
+	</a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=dracula&show#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=default&show#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
