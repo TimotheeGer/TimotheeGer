@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# Hello, I am Timothee 👨🏻‍🎓 <a href="mailto:timger9375@gmail.fr">
-<img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+# Hello, I am Timothee 👨🏻‍🎓
 
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="center" src="https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9" />
@@ -49,6 +48,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+📫  Feel free to contact me if you want 😄 !
+
+<a href="mailto:tigerber@student.42.fr">
+<img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 <!-- <picture>
   <source 
