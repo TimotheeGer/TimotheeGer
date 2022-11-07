@@ -45,5 +45,5 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img align="center" img src="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true" />
+    <img align="right" img src="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true" />
 </picture>
