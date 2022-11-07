@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+##
+
 📫  Feel free to contact me if you want 😄 !
 
 <a href="mailto:timger9375@gmail.fr">
