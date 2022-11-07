@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# Hello I am Timothee 👨🏻‍🎓
+# Hello, I am Timothee 👨🏻‍🎓
 
 [![tigerber's 42 stats](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9)](https://github.com/JaeSeoKim/badge42)
 
@@ -49,3 +49,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=radical&show" />
 </a>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true" />
+</picture>
