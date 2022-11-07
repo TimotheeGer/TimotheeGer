@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+### Hello I am Timothee 👨🏻‍🎓
+
 [![tigerber's 42 stats](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9)](https://github.com/JaeSeoKim/badge42)
 
 ### Last project at 42:
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
 |:-------------------|:-----------------|
 | Exam Rank 05|[![tigerber's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/project/2568617)](https://github.com/JaeSeoKim/badge42)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=radical&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
