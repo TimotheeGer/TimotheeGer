@@ -1,4 +1,4 @@
-**TimotheeGer/TimotheeGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **TimotheeGer/TimotheeGer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 [![tigerber's 42 stats](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9)](https://github.com/JaeSeoKim/badge42)
 
