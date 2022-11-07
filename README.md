@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# Hello, I am Timothee 👨🏻‍🎓
+# Hello, I am Timothee 👨🏻‍🎓 <a href="mailto:timger9375@gmail.fr">
+<img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="center" src="https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/stats?cursusId=21&coalitionId=9" />
