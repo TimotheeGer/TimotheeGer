@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=rdark&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotheeGer&layout=compact&theme=default&show#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TimotheeGer&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
