@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 | Exams |  |
 |:-------------------|:-----------------|
-| Exam Rank 05|[![tigerber's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/project/2568617)](https://github.com/JaeSeoKim/badge42)|
+| Exam Rank 06|[![tigerber's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cla6wyp7300250gmqvji3i8ez/project/2568617)](https://github.com/JaeSeoKim/badge42)|
 
 ## My Github stats
 
